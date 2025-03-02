@@ -1,4 +1,4 @@
-# animated-navi
+# animated-navigation
 <!DOCTYPE html>
 <html lang="en">
   <head>
